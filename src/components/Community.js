@@ -29,7 +29,7 @@ const Community = () => {
           <div className='absolute -right-[375px] lg:-right-[280px] w-[1140px] top-48 lg:top-0'
             data-aos='fade-left'
             data-aos-offset='200'
-            data-aos-delay='300'
+            data-aos-delay='200'
           >
             <CommunitySlider testimonials={testimonials} />
           </div>

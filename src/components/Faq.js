@@ -21,7 +21,11 @@ const Faq = () => {
           </h2>
         </div>
         {/* accordion list */}
-        <div>
+        <div className='flex flex-col gap-y-4 px-4'
+          data-aos='fade-up'
+          data-aos-offset='300'
+          data-aos-delay='200'
+        >
           {accordions.map((accordion, idx)=>{
             return <Accordion accordion={accordion} key={idx} />;
           })}

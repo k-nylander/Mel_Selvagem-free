@@ -11,7 +11,16 @@ const Faq = () => {
   const { icon, title, accordions } = faq;
   return (
     <section className='bg-pink-200 section pt-[480px] lb:pt-[280px]'>
-      Faq
+      <div>
+        {/* section title */}
+        <div>
+          <img className='lg:hidden' src={icon} alt=''/>
+          <h2 className='h2 section-title lg:mt-[100px]'>
+            {title}
+            <span className='text-primary-400'>?</span>
+          </h2>
+        </div>
+      </div>
     </section>
   );
 };

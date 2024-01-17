@@ -22,6 +22,10 @@ const Accordion = ({accordion}) => {
             )}
           </div>
         </div>
+        {/* descrição */}
+        <div>
+          <div>{answer}</div>
+        </div>
       </div>
     </div>
   );

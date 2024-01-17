@@ -7,7 +7,11 @@ import { faq } from '../data';
 import Accordion from '../components/Accordion';
 
 const Faq = () => {
-  return <div>Faq</div>;
+  // destrucuture faq data
+  const { icon, title, accordions } = faq;
+  return (
+    <section>Faq</section>
+  );
 };
 
 export default Faq;

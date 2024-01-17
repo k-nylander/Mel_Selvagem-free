@@ -13,7 +13,7 @@ const Faq = () => {
     <section className='section pt-[480px] lb:pt-[280px]'>
       <div className='max-w-[768px] mx-auto lg:bg-faq bg-no-repeat bg-custom bg-center lg:h-[1160px] lg:pt-6'>
         {/* section title */}
-        <div className='section-title-group justify-start lg:justify-center -space-x-4'>
+        <div className='section-title-group justify-start lg:justify-center -space-x-4 lg:max-w-[540px] mx-auto px-4 lg:px-0'>
           <img className='lg:hidden' src={icon} alt=''/>
           <h2 className='h2 section-title lg:mt-[100px]'>
             {title}

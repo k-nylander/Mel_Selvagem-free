@@ -27,7 +27,7 @@ const Accordion = ({accordion}) => {
         <div className={`${
             isOpen ? 'min-h-[200px] lg:min-h-[160px]' :
             'min-0'
-          } max-h-0 overflow-hidden flex`}
+          } max-h-0 overflow-hidden flex justify-center transition-all px-[30px]`}
         >
           <div className='mt-6'>{answer}</div>
         </div>

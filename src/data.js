@@ -181,32 +181,32 @@ export const faq = {
   title: 'Perguntas',
   accordions: [
     {
-      question: 'How can I book a workout class?',
+      question: 'Nosso foco com abelhas?',
       answer:
         'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestiae temporibus beatae, totam repudiandae nam recusandae ea dolores tempora maxime.',
     },
     {
-      question: 'Can I pay by cash for my membership?',
+      question: 'Manejo e curiosidades?',
       answer:
         'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestiae temporibus beatae, totam repudiandae nam recusandae ea dolores tempora maxime.',
     },
     {
-      question: 'What age do I need to be to join?',
+      question: 'Resgate de abelhas, como funciona?',
       answer:
         'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestiae temporibus beatae, totam repudiandae nam recusandae ea dolores tempora maxime.',
     },
     {
-      question: 'Are there any lockers?',
+      question: 'Nosso produto, nosso mel?',
       answer:
         'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestiae temporibus beatae, totam repudiandae nam recusandae ea dolores tempora maxime.',
     },
     {
-      question: 'How do I cancel my membership?',
+      question: 'Tudo sobre mel selvagem?',
       answer:
         'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestiae temporibus beatae, totam repudiandae nam recusandae ea dolores tempora maxime.',
     },
     {
-      question: 'Is there water available at the gym?',
+      question: 'Curiosidades sobre o mel?',
       answer:
         'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestiae temporibus beatae, totam repudiandae nam recusandae ea dolores tempora maxime.',
     },

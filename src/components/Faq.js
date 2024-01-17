@@ -10,7 +10,7 @@ const Faq = () => {
   // destrucuture faq data
   const { icon, title, accordions } = faq;
   return (
-    <section className='bg-pink-200 section pt-[480px] lb:pt-[280px]'>
+    <section className='section pt-[480px] lb:pt-[280px]'>
       <div>
         {/* section title */}
         <div>

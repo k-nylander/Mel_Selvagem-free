@@ -23,7 +23,11 @@ const Accordion = ({accordion}) => {
           </div>
         </div>
         {/* descrição */}
-        <div>
+        <div className={`bg-pink-200 ${
+            isOpen ? 'min-h-[200px] lg:min-h-[160px]' :
+            'min-0'
+          } max-h-0 overflow-hidden flex`}
+        >
           <div>{answer}</div>
         </div>
       </div>

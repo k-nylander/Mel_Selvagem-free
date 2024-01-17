@@ -178,7 +178,7 @@ export const community = {
 
 export const faq = {
   icon: QuestionMarkIcn,
-  title: 'FAQ',
+  title: 'Perguntas',
   accordions: [
     {
       question: 'How can I book a workout class?',

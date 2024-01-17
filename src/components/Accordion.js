@@ -10,9 +10,14 @@ const Accordion = ({accordion}) => {
   const { question, answer } = accordion;
 
   return (
-    <div>
-      Accordion
-    </div>);
+    <div className='cursor-pointer'>
+      <div className='bg-white border rounded-sm'>
+        <div className='min-h-[60px] flex items-center justify-between px-[30px]'>
+          <h6>{question}</h6>
+        </div>
+      </div>
+    </div>
+  );
 };
 
 export default Accordion;

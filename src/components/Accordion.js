@@ -5,7 +5,7 @@ import { FaChevronCircleUp, FaChevronCircleDown } from 'react-icons/fa';
 
 const Accordion = ({accordion}) => {
   //accordion state
-  const [ isOpen, setIsOpen ] = useState(true);
+  const [ isOpen, setIsOpen ] = useState(false);
   //destructure accordion
   const { question, answer } = accordion;
 
@@ -24,7 +24,7 @@ const Accordion = ({accordion}) => {
           </div>
         </div>
         {/* descrição */}
-        <div className={`bg-pink-200 ${
+        <div className={`${
             isOpen ? 'min-h-[200px] lg:min-h-[160px]' :
             'min-0'
           } max-h-0 overflow-hidden flex`}

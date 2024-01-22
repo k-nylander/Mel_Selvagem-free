@@ -5,7 +5,7 @@ import { join } from '../data';
 
 const Join = () => {
   // destructure join data
-  const { image, title, subtitle, btnText } = join;
+  const { image, title, subtitle, btnText, preco } = join;
   return (
     <section className='bg-neutral-500 min-h-[537px]'>
       <div className='container mx-auto'>
@@ -23,6 +23,11 @@ const Join = () => {
             <p className='text-body-sm md:text-body-md text-white mb-4 lg:mb-6 max-w-[348px]'>
               {subtitle}
             </p>
+            {/* preço */}
+            <div className='leading-none'>
+              <span className='tracking-[0.1px]'>{price}</span>
+              <span className='text-[30px] font-extrabold'>R$</span>
+            </div>
             <button>{btnText}</button>
           </div>
         </div>

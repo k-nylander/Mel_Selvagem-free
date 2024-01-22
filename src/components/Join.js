@@ -16,7 +16,7 @@ const Join = () => {
             <img src={image} alt='' />
           </div>
           {/* text */}
-          <div className='max-w-[450px]'>
+          <div className='max-w-[150px]'>
             <h2 className='h1 md:text-[60px] md:leading-[62px] mb-4 lg:mb-6 text-white'>
               {title}<span className='text-primary-400'>R$</span>
             </h2>

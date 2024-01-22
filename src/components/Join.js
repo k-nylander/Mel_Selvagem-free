@@ -23,12 +23,12 @@ const Join = () => {
             <p className='text-body-sm md:text-body-md text-white mb-4 lg:mb-6 max-w-[348px]'>
               {subtitle}
             </p>
+            <button>{btnText}</button>
+          </div>
             {/* preço */}
             <div className='-mt-[80px] max-w-[26px] md:max-w-[42px] lg:max-w-full'>
               <img className='tracking-[0.1px] max-w-16' src={pix} alt=''/>
             </div>
-            <button>{btnText}</button>
-          </div>
         </div>
       </div>
     </section>

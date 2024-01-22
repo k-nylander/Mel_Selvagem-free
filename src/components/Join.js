@@ -12,11 +12,19 @@ const Join = () => {
         {/* image & text wrapper  */}
         <div className='flex flex-col md:flex-row md:items-center md:-space-x-12 -space-y-24 lg:space-y-0'>
           {/* image */}
-          <div className='-mt-[80px] max-w-[276px] md:max-w-[442px] lg:max-w-full'>
+          <div className='-mt-[80px] max-w-[276px] md:max-w-[442px] lg:max-w-full'
+            data-aos='fade-right'
+            data-aos-offset='100'
+            data-aos-delay='200'
+          >
             <img src={image} alt='' />
           </div>
           {/* text */}
-          <div className='max-w-[350px]'>
+          <div className='max-w-[350px] lg:max-w-[500px] ml-[30px]'
+            data-aos='fade-left'
+            data-aos-offset='100'
+            data-aos-delay='200'
+          >
             <h2 className='h1 md:text-[60px] md:leading-[62px] mb-4 lg:mb-6 text-white'>
               {title}<span className='text-primary-400'>R$</span>
             </h2>
@@ -28,9 +36,9 @@ const Join = () => {
         </div>
       </div>
       {/* preço */}
-      <div className='-mt-[80px] max-w-[26px] md:max-w-[42px]'>
+      {/*<div className='-mt-[80px] max-w-[26px] md:max-w-[42px]'>
         <img className='tracking-[0.1px] max-w-16' src={pix} alt=''/>
-      </div>
+      </div>*/}
     </section>
   );
 };

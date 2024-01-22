@@ -20,10 +20,10 @@ const Join = () => {
             <h2 className='h1 md:text-[60px] md:leading-[62px] mb-4 lg:mb-6 text-white'>
               {title}<span className='text-primary-400'>R$</span>
             </h2>
-            <p className='text-body-sm md:text-body-md text-white mb-4 lg:mb-6 max-w-[348px]'>
+            <p className='text-body-sm md:text-body-md text-white mb-4 lg:mb-6 max-w-[348px] md:max-w-[470px] lg:max-w-[492px]'>
               {subtitle}
             </p>
-            <button>{btnText}</button>
+            <button className='btn btn-secondary btn-lg'>{btnText}</button>
           </div>
             {/* preço */}
             <div className='-mt-[80px] max-w-[26px] md:max-w-[42px] lg:max-w-full'>

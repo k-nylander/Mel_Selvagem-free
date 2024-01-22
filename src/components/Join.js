@@ -20,7 +20,7 @@ const Join = () => {
             <img src={image} alt='' />
           </div>
           {/* text */}
-          <div className='max-w-[350px] lg:max-w-[500px] mr-[50px]'
+          <div className='max-w-[350px] lg:max-w-[500px] ml-[50px] mt-[50px]'
             data-aos='fade-left'
             data-aos-offset='100'
             data-aos-delay='200'

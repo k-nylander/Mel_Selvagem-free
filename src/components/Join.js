@@ -2,6 +2,7 @@ import React from 'react';
 import { join } from '../data';
 
 const Join = () => {
+  // estrutura preço data
   const { image, title, subtitle, btnText, pix } = join;
 
   return (
@@ -17,7 +18,7 @@ const Join = () => {
             <img src={image} alt='' />
           </div>
           <div
-            className='max-w-[350px] lg:max-w-[500px] ml-[50px] mt-[50px]'
+            className='mt-[80px] max-w-[350px] lg:max-w-[500px] ml-[50px]'
             data-aos='fade-left'
             data-aos-offset='100'
             data-aos-delay='200'

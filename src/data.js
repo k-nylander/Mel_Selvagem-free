@@ -225,5 +225,5 @@ export const join = {
 
 export const footer = {
   logo: Logo,
-  copyrightText: 'All rights reserved. Gymme 2022.',
+  copyrightText: 'Todos direitos reservados. Mel Selvagem 2024.',
 };

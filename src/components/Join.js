@@ -25,8 +25,7 @@ const Join = () => {
             </p>
             {/* preço */}
             <div className='-mt-[80px] max-w-[26px] md:max-w-[42px] lg:max-w-full'>
-              <img className='tracking-[0.1px]' src={pix} alt=''/>
-              <span className='text-[30px] font-extrabold'>R$</span>
+              <img className='tracking-[0.1px] max-w-16' src={pix} alt=''/>
             </div>
             <button>{btnText}</button>
           </div>

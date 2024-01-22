@@ -10,9 +10,9 @@ const Join = () => {
     <section className='bg-neutral-500 min-h-[537px]'>
       <div className='container mx-auto'>
         {/* image & text wrapper  */}
-        <div className='flex flex-col md:flex-row md:itmes-center md:-space-x-12 -space-y-24 lg:space-y-0'>
+        <div className='flex flex-col md:flex-row md:items-center md:-space-x-12 -space-y-24 lg:space-y-0'>
           {/* image */}
-          <div className=''>
+          <div className='-mt-[80px] max-w-[276px] md:max-w-[442px] lg:max-w-full'>
             <img src={image} alt='' />
           </div>
           {/* text */}

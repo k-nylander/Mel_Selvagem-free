@@ -225,5 +225,5 @@ export const join = {
 
 export const footer = {
   logo: Logo,
-  copyrightText: 'Todos direitos reservados. Mel Selvagem 2024.',
+  copyrightText: 'Todos Direitos Reservados. Mel Selvagem © 2024.',
 };

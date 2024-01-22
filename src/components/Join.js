@@ -17,10 +17,12 @@ const Join = () => {
           </div>
           {/* text */}
           <div className='max-w-[350px]'>
-            <h2 className='h1 text-white'>
+            <h2 className='h1 md:text-[60px] md:leading-[62px] mb-4 lg:mb-6 text-white'>
               {title}
             </h2>
-            <p>{subtitle}</p>
+            <p className='text-body-sm md:text-body-md text-white mb-4 lg:mb-6 max-w-[348px]'>
+              {subtitle}
+            </p>
             <button>{btnText}</button>
           </div>
         </div>

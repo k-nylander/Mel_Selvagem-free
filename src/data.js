@@ -215,21 +215,11 @@ export const faq = {
 
 export const join = {
   image: JoinImg,
-  title: 'Conheça nosso produto!',
+  title: '30',
   subtitle:
     'We’ll keep you updated on the things you need to know about Gymme. Nothing more, nothing less.',
-  btnText: 'Peça aqui',
-  preco: [
-    {
-      name: '500 ml',
-      price: '20',
-      list: [
-        { name: 'unlimited gym access' },
-        { name: '1 training programs' },
-        { name: 'free fitness consultation' },
-      ],
-      delay: 600,
-    },]
+    preco: '30',
+    btnText: 'Peça aqui',
 };
 
 export const footer = {

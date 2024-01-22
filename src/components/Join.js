@@ -26,7 +26,7 @@ const Join = () => {
             <button className='btn btn-secondary btn-lg'>{btnText}</button>
           </div>
             {/* preço */}
-            <div className='-mt-[80px] max-w-[26px] md:max-w-[42px] lg:max-w-full'>
+            <div className='-mt-[80px] max-w-[26px] md:max-w-[42px]'>
               <img className='tracking-[0.1px] max-w-16' src={pix} alt=''/>
             </div>
         </div>

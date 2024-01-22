@@ -9,7 +9,13 @@ const Join = () => {
   return (
     <section>
       <div className='container mx-auto'>
-        {/*  */}
+        {/* image & text wrapper  */}
+        <div>
+          {/* image */}
+          <div>
+            <img src={image} alt='' />
+          </div>
+        </div>
       </div>
     </section>
   );

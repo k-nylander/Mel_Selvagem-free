@@ -16,7 +16,7 @@ import CommunityImg1 from '../src/assets/img/community/receitas.jpg';
 import CommunityImg2 from '../src/assets/img/community/bolo-de-mel-com-frutas.jpg';
 import CommunityImg3 from '../src/assets/img/community/biscoitos_de_mel.jpg';
 import CommunityImg4 from '../src/assets/img/community/macamel.jpeg.jpg';
-import JoinImg from '../src/assets/img/join/woman.png';
+import JoinImg from '../src/assets/img/join/frascos2.png';
 // icons
 import UsersIcn from '../src/assets/img/about/icons/users-icn.svg';
 import CalendarIcn from '../src/assets/img/workouts/icons/calendar.svg';
@@ -215,10 +215,10 @@ export const faq = {
 
 export const join = {
   image: JoinImg,
-  title: 'Wanna join & have fun?',
+  title: 'Conheça nosso produto!',
   subtitle:
     'We’ll keep you updated on the things you need to know about Gymme. Nothing more, nothing less.',
-  btnText: 'Join now',
+  btnText: 'Peça aqui',
 };
 
 export const footer = {

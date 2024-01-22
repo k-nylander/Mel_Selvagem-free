@@ -45,7 +45,7 @@ export const banner = {
   titlePart1: 'Do produtor do campo',
   titlePart2: '– para sua mesa.',
   subtitle:
-    'Produto natural selvagem e natural direto do campo',
+    ' Mel puro, natural e saudável',
   textBtn: 'Garanta seu aqui',
   img: '',
 };

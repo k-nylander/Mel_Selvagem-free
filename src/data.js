@@ -32,12 +32,13 @@ export const header = {
 };
 
 export const nav = [
-  { name: 'Home', href: '/' },
-  { name: 'Sobre nós', href: '/' },
-  { name: 'Nosso trabalho', href: '/' },
-  { name: 'Produto', href: '/' },
-  { name: 'Community', href: '/' },
-  { name: 'Perguntas', href: '/' },
+  { name: 'Home', href: '/'},
+  { name: 'Sobre nós', href: '/banner' },
+  { name: 'Nossa missão', href: '/about' },
+  { name: 'Nosso trabalho', href: '/workouts' },
+  { name: 'Receitas', href: '/community' },
+  { name: 'Perguntas', href: '/faq' },
+  { name: 'Produto', href: '/join' },
 ];
 
 export const banner = {

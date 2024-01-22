@@ -17,6 +17,7 @@ import CommunityImg2 from '../src/assets/img/community/bolo-de-mel-com-frutas.jp
 import CommunityImg3 from '../src/assets/img/community/biscoitos_de_mel.jpg';
 import CommunityImg4 from '../src/assets/img/community/macamel.jpeg.jpg';
 import JoinImg from '../src/assets/img/join/frascos2.png';
+import JoinImgPix from '../src/assets/img/join/pix.png';
 // icons
 import UsersIcn from '../src/assets/img/about/icons/users-icn.svg';
 import CalendarIcn from '../src/assets/img/workouts/icons/calendar.svg';
@@ -217,8 +218,8 @@ export const join = {
   image: JoinImg,
   title: '30',
   subtitle:
-    'We’ll keep you updated on the things you need to know about Gymme. Nothing more, nothing less.',
-    preco: '30',
+    'Frasco de 500ml.',
+    pix: JoinImgPix,
     btnText: 'Peça aqui',
 };
 

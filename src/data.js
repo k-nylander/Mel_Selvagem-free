@@ -182,12 +182,6 @@ export const community = {
         '',
       link: 'https://panelaterapia.com/costelinha-com-laranja-e-me/',
     },
-    {
-      image: CommunityImg4,
-      name: 'Maça assada com Mel.',
-      message:
-        '“Love these workouts! Trainers are knowledgeable and motivating. Gymme is wonderful!”',
-    },
   ],
 };
 

@@ -28,6 +28,7 @@ import QuestionMarkIcn from '../src/assets/img/faq/icons/question-mark.svg';
 export const header = {
   logo: Logo,
   btnLoginText: 'Fale Conosco',
+  link:'https://api.whatsapp.com/send?phone=555481420633&text=Ola+Tudo+Bem?',
   btnSignupText: 'Sign Up',
 };
 

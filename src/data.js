@@ -233,7 +233,7 @@ export const join = {
   subtitle:
     'Frasco de 500ml.',
     pix: JoinImgPix,
-    btnText: 'Peça aqui',
+    btnText: 'Garanta aqui',
 };
 
 export const footer = {

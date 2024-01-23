@@ -13,7 +13,7 @@ import Manejo7 from '../src/assets/img/workouts/manejo8.jpeg';
 import Manejo8 from '../src/assets/img/workouts/frascos2.png';
 // images
 import CommunityImg1 from '../src/assets/img/community/saladamel.jpeg';
-import CommunityImg2 from '../src/assets/img/community/bolo-de-mel-com-frutas.jpg';
+import CommunityImg2 from '../src/assets/img/community/bolachinha.jpeg';
 import CommunityImg3 from '../src/assets/img/community/biscoitos_de_mel.jpg';
 import CommunityImg4 from '../src/assets/img/community/macamel.jpeg.jpg';
 import JoinImg from '../src/assets/img/join/frascos2.png';
@@ -166,9 +166,12 @@ export const community = {
     },
     {
       image: CommunityImg2,
-      name: 'Pão caseiro de Mel.',
+      name: 'Bolachinha de Mel',
       message:
-        '“Gymme changed my life. Not only physically but mentally as well. I’m a better mother, and all around better human being because of this gym.”',
+        '“Ingredientes: Farinha de trigo, mel, açúcar, ovos, canela,  noz moscada, cravo, casca de limão ralada, bicarbonato de sódio e chocolate em pó.”',
+      descricao:
+        '',
+      link: 'https://www.receiteria.com.br/receita/bolacha-de-mel/',
     },
     {
       image: CommunityImg3,

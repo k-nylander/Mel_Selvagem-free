@@ -14,7 +14,7 @@ import Manejo8 from '../src/assets/img/workouts/frascos2.png';
 // images
 import CommunityImg1 from '../src/assets/img/community/saladamel.jpeg';
 import CommunityImg2 from '../src/assets/img/community/17-bolacha-de-mel.jpg';
-import CommunityImg3 from '../src/assets/img/community/costelinha-10-ideias-incriveis.jpg';
+import CommunityImg3 from '../src/assets/img/community/Costelinha-de-porco-assada-com-mel.jpg';
 import CommunityImg4 from '../src/assets/img/community/macamel.jpeg.jpg';
 import JoinImg from '../src/assets/img/join/frascos2.png';
 import JoinImgPix from '../src/assets/img/join/pix.png';

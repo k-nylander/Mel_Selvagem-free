@@ -40,6 +40,14 @@ const About = () => {
         >
           {subtitle2}
         </p>
+        {/* subtitle 3 */}
+        <p 
+          className='md:text-body-md mb-8'
+          data-aos='fade-up'
+          data-aos-delay='300'
+        >
+          {subtitle3}
+        </p>
         {/* link */}
         <div
           data-aos='fade-up'

@@ -158,9 +158,11 @@ export const community = {
   testimonials: [
     {
       image: CommunityImg1,
-      name: 'Bolo integral de Mel.',
+      name: 'Molho de mel para salada',
       message:
-        '“Great location, great price and great, helpful people. What to want more?”',
+        '“Ingredientes: 1 colher de sopa de mel, 3 colheres de sopa de azeite e 2 colheres de sopa de mostarda.”',
+      descricao:
+        'Preparo: Misture todos os ingredientes.',
     },
     {
       image: CommunityImg2,

@@ -47,6 +47,7 @@ export const banner = {
   subtitle:
     ' Mel puro, natural e saudável',
   textBtn: 'Garanta aqui',
+  link:'https://api.whatsapp.com/send?phone=555481420633&text=Ola+Tudo+Bem?',
   img: '',
 };
 
@@ -62,7 +63,8 @@ export const about = {
   subtitle3:
     '<b>Abelhas são seres únicos;</b> O ser humano, que ao longo do tempo, domesticou os mais diversos animais, mas jamais conseguiu fazer o mesmo com este singelo inseto. São seres livres e permaneceram <b>selvagens e indomáveis</b>. Aprendemos a lidar e aplicar as boas técnicas da apicultura, mas elas nunca abdicaram de seu instinto selvagem. Desta percepção, nasce o nosso nome, “O mel Selvagem”.',
   
-  link: 'Garanta aqui',
+  btnText: 'Garanta aqui',
+  link:'https://api.whatsapp.com/send?phone=555481420633&text=Ola+Tudo+Bem?',
 };
 
 export const workouts = {
@@ -234,6 +236,7 @@ export const join = {
     'Frasco de 500ml.',
     pix: JoinImgPix,
     btnText: 'Garanta aqui',
+    link:'https://api.whatsapp.com/send?phone=555481420633&text=Ola+Tudo+Bem?',
 };
 
 export const footer = {

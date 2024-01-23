@@ -3,7 +3,7 @@ import { join } from '../data';
 
 const Join = () => {
   // estrutura preço data
-  const { image, title, subtitle, btnText, pix } = join;
+  const { image, title, subtitle, btnText, pix, link } = join;
 
   return (
     <section className='bg-neutral-500 min-h-[537px]'>
@@ -30,7 +30,7 @@ const Join = () => {
             <p className='text-body-sm md:text-body-md text-white mb-4 lg:mb-6 max-w-[348px] md:max-w-[470px] lg:max-w-[492px]'>
               {subtitle}
             </p>
-            <button className='btn btn-secondary btn-lg'>{btnText}</button>
+            <a href={link} className='btn btn-secondary btn-lg'>{btnText}</a>
           </div>
         </div>
       </div>

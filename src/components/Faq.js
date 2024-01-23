@@ -21,7 +21,7 @@ const Faq = () => {
           <img className='lg:hidden' src={icon} alt=''/>
           <h2 className='h2 section-title lg:mt-[100px]'>
             {title}
-            <span className='text-primary-400'>?</span>
+            <span className='text-primary-400'>!</span>
           </h2>
         </div>
         {/* accordion list */}

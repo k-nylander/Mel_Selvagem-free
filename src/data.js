@@ -69,43 +69,43 @@ export const workouts = {
   programs: [
     {
       image: Manejo1,
-      name: 'Manejo',
+      name: 'Manejo no Apiário',
     },
     {
       image: Resgate,
-      name: 'Resgate',
+      name: 'Resgate Noturno de um enxame',
     },
     {
       image: Resgate2,
-      name: 'Resgate',
+      name: 'Resgate Noturno de um enxame',
     },
     {
       image: Manejo2,
-      name: 'Manejo',
+      name: 'Colheita do mel',
     },
     {
       image: Manejo3,
-      name: 'Manejo',
+      name: 'Colheita do mel',
     },
     {
       image: Manejo4,
-      name: 'Manejo',
+      name: 'Colheita do mel',
     },
     {
       image: Manejo5,
-      name: 'Manejo',
+      name: 'Colheita do mel',
     },
     {
       image: Manejo6,
-      name: 'Manejo',
+      name: 'Colheita do mel',
     },
     {
       image: Manejo7,
-      name: 'Manejo',
+      name: 'Colheita do mel',
     },
     {
       image: Manejo8,
-      name: 'Frascos',
+      name: 'Nossa produção',
     },
   ],
 };

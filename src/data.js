@@ -14,7 +14,7 @@ import Manejo8 from '../src/assets/img/workouts/frascos2.png';
 // images
 import CommunityImg1 from '../src/assets/img/community/saladamel.jpeg';
 import CommunityImg2 from '../src/assets/img/community/17-bolacha-de-mel.jpg';
-import CommunityImg3 from '../src/assets/img/community/biscoitos_de_mel.jpg';
+import CommunityImg3 from '../src/assets/img/community/costelinha.jpeg';
 import CommunityImg4 from '../src/assets/img/community/macamel.jpeg.jpg';
 import JoinImg from '../src/assets/img/join/frascos2.png';
 import JoinImgPix from '../src/assets/img/join/pix.png';
@@ -175,9 +175,12 @@ export const community = {
     },
     {
       image: CommunityImg3,
-      name: 'Biscoitos de Mel.',
+      name: 'Costelinha de porco com mel e laranja',
       message:
-        '“Love these workouts! Trainers are knowledgeable and motivating. Gymme is wonderful!”',
+        '“Ingredientes: mel, laranja, shoyou, sal, mostarda, colorífico, pimenta do reino, cebola, alho e costelinha de porco.”',
+      descricao:
+        '',
+      link: 'https://panelaterapia.com/costelinha-com-laranja-e-me/',
     },
     {
       image: CommunityImg4,

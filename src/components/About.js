@@ -39,7 +39,7 @@ const About = () => {
           data-aos='fade-up'
           data-aos-delay='300'
         >
-          <span className='text-primary-400'>Somos apicultores </span>
+          <b>Somos apicultores </b>
            por admirarmos este animal magnífico, de mais de 100 milhões de anos, socialmente organizado e fundamental agente de polinização, ao buscar pólen e nectar no vai e vem incansável de suas visitas às flores.
           {/*subtitle2*/}
         </p>
@@ -49,7 +49,7 @@ const About = () => {
           data-aos='fade-up'
           data-aos-delay='300'
         >
-          <span className='text-primary-400'>Somos responsáveis</span>
+          <b>Somos responsáveis</b>
           , proporcionamos às abelhas as melhores condições de conforto e proteção, para que façam o que melhor sabem, aproveitando a exuberante natureza da <b>Serra Gaúcha brasileira</b>, criadas livres e protegidas.
           {/*subtitle21*/}
         </p>

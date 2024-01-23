@@ -205,7 +205,7 @@ export const faq = {
     {
       question: 'Curiosidades do mel',
       answer:
-        '• É um produto utilizado deste a antiguidade para o tratamento de doenças respiratórias e cicatrizantes; \n•  Funciona como um poderoso agente biológico, capaz de dar eliminar microrganismos, como bactérias, fungos, leveduras, vírus, etc. O principal agente bactericida contido no mel é o peróxido de hidrogênio;',
+        '• É um produto utilizado deste a antiguidade para o tratamento de doenças respiratórias e cicatrizantes;  Funciona como um poderoso agente biológico, capaz de dar eliminar microrganismos, como bactérias, fungos, leveduras, vírus, etc. O principal agente bactericida contido no mel é o peróxido de hidrogênio;',
     },
     {
       question: 'Outros produtos apícolas (Própolis)',

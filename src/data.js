@@ -46,7 +46,7 @@ export const banner = {
   titlePart2: '– para sua mesa.',
   subtitle:
     ' Mel puro, natural e saudável',
-  textBtn: 'Garanta o seu aqui',
+  textBtn: 'Garanta aqui',
   img: '',
 };
 
@@ -60,7 +60,7 @@ export const about = {
   subtitle3:
     'Abelhas são seres únicos; O ser humano, que ao longo do tempo, domesticou os mais diversos animais, mas jamais conseguiu fazer o mesmo com este singelo inseto. São seres livres e permaneceram selvagens e indomáveis. Aprendemos a lidar e aplicar as boas técnicas da apicultura, mas elas nunca abdicaram de seu instinto selvagem. Desta percepção, nasce o nosso nome, “O mel Selvagem”.',
   
-  link: 'Garante seu aqui',
+  link: 'Garanta aqui',
 };
 
 export const workouts = {

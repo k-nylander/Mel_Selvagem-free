@@ -13,7 +13,7 @@ import Manejo7 from '../src/assets/img/workouts/manejo8.jpeg';
 import Manejo8 from '../src/assets/img/workouts/frascos2.png';
 // images
 import CommunityImg1 from '../src/assets/img/community/saladamel.jpeg';
-import CommunityImg2 from '../src/assets/img/community/bolachinha.jpeg';
+import CommunityImg2 from '../src/assets/img/community/17-bolacha-de-mel.jpg';
 import CommunityImg3 from '../src/assets/img/community/biscoitos_de_mel.jpg';
 import CommunityImg4 from '../src/assets/img/community/macamel.jpeg.jpg';
 import JoinImg from '../src/assets/img/join/frascos2.png';

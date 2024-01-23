@@ -75,11 +75,11 @@ export const workouts = {
     },
     {
       image: Resgate,
-      name: 'Resgate de um enxame',
+      name: 'Resgate de enxame',
     },
     {
       image: Resgate2,
-      name: 'Resgate de um enxame',
+      name: 'Resgate de enxame',
     },
     {
       image: Manejo2,

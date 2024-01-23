@@ -215,12 +215,12 @@ export const faq = {
     {
       question: 'Outros produtos apícolas (Cera das abelhas)',
       answer:
-        '• Cera das abelhas: Sua finalidade mais conhecida é a cosmética, fazendo parte da constituição de produtos como batons, cremes, loções, cera depilatória e óleos; \n• Geléia real: Do ponto de vista nutricional, é o alimento mais completo que existe. Todos os 23 aminoácidos existentes na natureza estão na geleia real. Todos os 84 sais minerais, estão presentes na geleia real. Todas as vitaminas estão presentes na geleia real. Na apiterapia a geleia real é utilizada para nutrir pessoas com problemas relacionados a rins, pâncreas, disfunções ligadas á diabetes. Também é utilizada no tratamento de  fertilidade, impotência sexual, cansaço e stress. ',
+        '• Cera das abelhas: Sua finalidade mais conhecida é a cosmética, fazendo parte da constituição de produtos como batons, cremes, loções, cera depilatória e óleos; \n• Geléia real: Do ponto de vista nutricional, é o alimento mais completo que existe. Todos os 23 aminoácidos existentes na natureza estão na geleia real. Todos os 84 sais minerais, estão presentes na geleia real. Todas as vitaminas estão presentes na geleia real. ',
     },
     {
       question: 'Outros produtos apícolas (Geléia real)',
       answer:
-        '• Geléia real: Do ponto de vista nutricional, é o alimento mais completo que existe. Todos os 23 aminoácidos existentes na natureza estão na geleia real. Todos os 84 sais minerais, estão presentes na geleia real. Todas as vitaminas estão presentes na geleia real. Na apiterapia a geleia real é utilizada para nutrir pessoas com problemas relacionados a rins, pâncreas, disfunções ligadas á diabetes. Também é utilizada no tratamento de  fertilidade, impotência sexual, cansaço e stress. ',
+        '• Geléia real: Do ponto de vista nutricional, é o alimento mais completo que existe. Todos os 23 aminoácidos existentes na natureza estão na geleia real. Todos os 84 sais minerais, estão presentes na geleia real. Na apiterapia a geleia real é utilizada para nutrir pessoas com problemas relacionados a rins, pâncreas, disfunções ligadas á diabetes. Também é utilizada no tratamento de  fertilidade, impotência sexual, cansaço e stress. ',
     },
   ],
 };

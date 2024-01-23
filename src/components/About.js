@@ -38,7 +38,7 @@ const About = () => {
           data-aos='fade-up'
           data-aos-delay='300'
         >
-          <span className='text-primary-400'>Somos</span>
+          <span className='text-primary-400'>Somos apicultores</span>
           {subtitle2}
         </p>
         {/* subtitle 2.2*/}
@@ -47,7 +47,7 @@ const About = () => {
           data-aos='fade-up'
           data-aos-delay='300'
         >
-          <span className='text-primary-400'>Somos</span>
+          <span className='text-primary-400'>Somos responsáveis</span>
           {subtitle21}
         </p>
         {/* subtitle 3 */}

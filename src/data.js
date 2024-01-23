@@ -185,27 +185,27 @@ export const community = {
 
 export const faq = {
   icon: QuestionMarkIcn,
-  title: 'Perguntas',
+  title: 'Curiosidades',
   accordions: [
     {
-      question: 'Nosso foco com abelhas?',
+      question: 'Por que o mel cristaliza?',
       answer:
-        'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestiae temporibus beatae, totam repudiandae nam recusandae ea dolores tempora maxime.',
+        'O mel genuíno tem uma tendência À cristalização, causada pela reação do hidrogênio do ar com a frutose que esta presente no mel, produzindo hidreto de frutose, que é sólido.',
     },
     {
-      question: 'Manejo e curiosidades?',
+      question: 'Como faço para retornar o mel ao estado líquido?',
       answer:
-        'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestiae temporibus beatae, totam repudiandae nam recusandae ea dolores tempora maxime.',
+        'Recomendamos a colocação em banho maria, todavia, a temperatura não pode passar de 45° C. Não se deve levar o mel em temperatura mais alta que isto, pois provoca a oxidação do mel (hidróxido metil furfural – HMF), tornando o alimento não adequado ao consumo humano.',
     },
     {
-      question: 'Resgate de abelhas, como funciona?',
+      question: 'Por que a cor do mel pode variar?',
       answer:
-        'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestiae temporibus beatae, totam repudiandae nam recusandae ea dolores tempora maxime.',
+        'A cor varia porque s abelhas produzem o mel dependendo do que coletam na natureza. Espécies vegetais diferentes, produzem mel com diferentes cores. A cor do mel é determinada pela quantidade de sais minerais que contém. Quanto mais escuro, mais sais minerais. Por outro lado, quanto mais claro, mas saboroso o mel.',
     },
     {
-      question: 'Nosso produto, nosso mel?',
+      question: 'Curiosidades do mel',
       answer:
-        'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestiae temporibus beatae, totam repudiandae nam recusandae ea dolores tempora maxime.',
+        '• É um produto utilizado deste a antiguidade para o tratamento de doenças respiratórias e cicatrizantes; •  Funciona como um poderoso agente biológico, capaz de dar eliminar microrganismos, como bactérias, fungos, leveduras, vírus, etc. O principal agente bactericida contido no mel é o peróxido de hidrogênio;',
     },
     {
       question: 'Tudo sobre mel selvagem?',

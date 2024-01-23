@@ -8,7 +8,7 @@ import { IoIosArrowDroprightCircle } from 'react-icons/io';
 
 const About = () => {
   //estrutura about data
-  const { title, subtitle1, subtitle2, subtitle3, icon, link } = about;
+  const { title, subtitle1, subtitle2, subtitle3, subtitle21, icon, link } = about;
 
   return (
     <section className='py-[80px] md:py-[110px] lg:pt-[140px] lg:pb-[180px]'>
@@ -32,13 +32,23 @@ const About = () => {
         >
           {subtitle1}
         </p>
-        {/* subtitle 2 */}
+        {/* subtitle 2.1 */}
         <p 
           className='md:text-body-md mb-8'
           data-aos='fade-up'
           data-aos-delay='300'
         >
+          <span className='text-primary-400'>Somos</span>
           {subtitle2}
+        </p>
+        {/* subtitle 2.2*/}
+        <p 
+          className='md:text-body-md mb-8'
+          data-aos='fade-up'
+          data-aos-delay='300'
+        >
+          <span className='text-primary-400'>Somos</span>
+          {subtitle21}
         </p>
         {/* subtitle 3 */}
         <p 

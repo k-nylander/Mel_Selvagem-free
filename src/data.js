@@ -27,7 +27,7 @@ import QuestionMarkIcn from '../src/assets/img/faq/icons/question-mark.svg';
 
 export const header = {
   logo: Logo,
-  btnLoginText: 'Log in',
+  btnLoginText: 'Fale Conosco',
   btnSignupText: 'Sign Up',
 };
 

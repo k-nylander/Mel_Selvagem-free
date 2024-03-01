@@ -3,6 +3,8 @@ import React from 'react';
 // import footer data
 import { footer } from '../data';
 
+var currentYaer = new Date().getFullYear();
+
 const Footer = () => {
   //estrutura footer data
   const { logo, copyrightText } = footer;
@@ -17,7 +19,7 @@ const Footer = () => {
           <img className='h-[70px]' src={logo} alt=''/>
         </a>
         {/* texto footer */}
-        <p className='text-neutral-300 text-sm'>{copyrightText}</p>
+        <p className='text-neutral-300 text-sm'>{copyrightText + currentYaer + ' .'}</p>
       </div>
     </footer>
   );

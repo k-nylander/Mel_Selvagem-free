@@ -33,13 +33,12 @@ export const header = {
 };
 
 export const nav = [
-  { name: 'Home', href: '/'},
-  { name: 'Sobre nós', href: '/banner' },
-  { name: 'Nossa missão', href: '/about' },
-  { name: 'Nosso trabalho', href: '/workouts' },
-  { name: 'Receitas', href: '/community' },
-  { name: 'Perguntas', href: '/faq' },
-  { name: 'Produto', href: '/join' },
+  { name: 'Home', href: 'banner'},
+  { name: 'Nossa missão', href: 'about' },
+  { name: 'Nosso trabalho', href: 'workouts' },
+  { name: 'Receitas', href: 'community' },
+  { name: 'Perguntas', href: 'faq' },
+  { name: 'Produto', href: 'join' },
 ];
 
 export const banner = {
